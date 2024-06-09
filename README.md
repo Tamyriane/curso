@@ -6,3 +6,5 @@ Curso Git e Github/versionamento
 
 #salvando modificacoes no git
 hhhhhhhh
+*uso do comando git restore
+#comando git push
